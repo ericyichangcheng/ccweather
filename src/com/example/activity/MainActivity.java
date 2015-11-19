@@ -1,4 +1,6 @@
-package com.example.cc_weather;
+package com.example.activity;
+
+import com.example.cc_weather.R;
 
 import android.app.Activity;
 import android.os.Bundle;
